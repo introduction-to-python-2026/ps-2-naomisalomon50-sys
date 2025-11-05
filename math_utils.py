@@ -6,7 +6,7 @@ def find_max_number(num1, num2, num3):
     else:
       return num3
  
- def find_mean(num1, num2, num3):
+def find_mean(num1, num2, num3):
     n = 3
     return (num1 + num2 + num3)/3
 
